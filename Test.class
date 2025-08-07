@@ -8,6 +8,10 @@ class Test
     {
         System.out.println("no args constuctor");
     }
+    public void m1()
+    {
+      System.out.println("m1 method execute");
+    }
     public static void main(String[] args)
     {
         Integer itr=2000;
