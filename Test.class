@@ -7,6 +7,7 @@ class Test
     public static void main(String[] args)
     {
         Integer itr=2000;
+        String name="Rajaram Rout";
         Test test=new Test();
     }
 }
