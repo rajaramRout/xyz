@@ -1,0 +1,11 @@
+class Test 
+{
+    public Test()
+    {
+        System.out.println("no args constuctor");
+    }
+    public static void main(String[] args)
+    {
+        Test test=new Test();
+    }
+}
