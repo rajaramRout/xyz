@@ -6,6 +6,7 @@ class Test
     }
     public static void main(String[] args)
     {
+        Integer itr=2000;
         Test test=new Test();
     }
 }
