@@ -1,5 +1,9 @@
 class Test 
 {
+    public void m2()
+    {
+        System.out.println("m2 method execute");
+    }
     public Test()
     {
         System.out.println("no args constuctor");
